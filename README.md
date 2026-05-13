@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tommiyi
+- 👋 Hi, I’m Xinghao Wang
 - 👀 I’m interested in neural architecture search
 - 📫 How to reach me xhwang19@jlu.edu.cn
 
